@@ -17,7 +17,3 @@ The code is largely outdated by modern standards and required manual access to p
 DB folder contains a copy of the example database that should be imported in a MySQL instance for the site to work.
 
 The example website can then be accessed using test users "user1" to "user12" and password "password".
-
-## License
-
-[MIT](https://chosealicense.com/licenses/mit/)
